@@ -1,0 +1,14 @@
+[
+    {text:'1班', children:[
+        {text:'刘一',leaf:true}
+    ]},
+    {
+        text:'2班', children:[
+            {text:'陈二',leaf:true},
+            {text:'张三',leaf:true}
+        ]
+    },
+    {
+        text:'3班', leaf:true
+    }
+]
